@@ -17,3 +17,8 @@ There are a couple of things to note:
 - The hands of the clock in the gif are rotating. Once you've positioned the elements, give it a try if you want.
 
 - If you try to rotate the clock arms, don't worry about getting the exact time right or making the rotations perfect. You can just start with the arms all at noon.
+
+
+***
+### Alina's Live version:
+https://alina-de.github.io/Animated_Clock/
